@@ -1,157 +1,285 @@
 # 📊 100 Days of Microsoft Excel Challenge
 
-## About This Repository
+Welcome to my **100 Days of Microsoft Excel Challenge** repository!
 
-Welcome to my **100 Days of Microsoft Excel Challenge**.
+This repository contains my daily Microsoft Excel learning, practice exercises, mini projects, dashboards, and output screenshots.
 
-This challenge is designed to take me from Excel fundamentals to advanced data analysis, dashboarding, automation, and interview-level Excel skills.
+The goal of this challenge is to strengthen my:
 
-As an aspiring Data Analyst, I am using this challenge to build practical skills through daily learning, hands-on exercises, mini-projects, and portfolio-ready work.
-
----
-
-## 🎯 Objectives
-
-By the end of this challenge, I will be able to:
-
-- Master Excel from Beginner to Advanced
-- Perform Data Cleaning
-- Analyze Business Data
-- Create Reports and Dashboards
-- Work with Pivot Tables
-- Use Advanced Formulas
-- Automate Tasks using Macros
-- Utilize Power Query and Power Pivot
-- Solve Real-world Data Analysis Problems
-- Prepare for Data Analyst Interviews
+- Microsoft Excel Fundamentals
+- Data Cleaning Skills
+- Data Analysis Techniques
+- Advanced Excel Functions
+- Pivot Tables & Pivot Charts
+- Dashboard Development
+- Power Query
+- Power Pivot
+- VBA & Macros
+- Interview Preparation for Data Analyst Roles
 
 ---
 
-## 🛠 Tools Used
+# 📅 Daily Progress
+
+## Day 1 - 1 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-01_EXCEL_001.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-01_EXCEL_001.png)
+
+---
+
+## Day 2 - 2 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-02_EXCEL_002.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-02_EXCEL_002.png)
+
+---
+
+## Day 3 - 3 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-03_EXCEL_003.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-03_EXCEL_003.png)
+
+---
+
+## Day 4 - 4 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-04_EXCEL_004.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-04_EXCEL_004.png)
+
+---
+
+## Day 5 - 5 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-05_EXCEL_005.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-05_EXCEL_005.png)
+
+---
+
+## Day 6 - 6 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-06_EXCEL_006.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-06_EXCEL_006.png)
+
+---
+
+## Day 7 - 7 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-07_EXCEL_007.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-07_EXCEL_007.png)
+
+---
+
+## Day 8 - 8 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-08_EXCEL_008.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-08_EXCEL_008.png)
+
+---
+
+## Day 9 - 9 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-09_EXCEL_009.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-09_EXCEL_009.png)
+
+---
+
+## Day 10 - 10 June 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-06-10_EXCEL_010.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-06-10_EXCEL_010.png)
+
+---
+
+Continue the same pattern till:
+
+## Day 100 - 8 September 2026
+
+### 🔹 Excel Workbook
+
+[Open Workbook](2026-09-08_EXCEL_100.xlsx)
+
+### 🔹 Output Screenshot
+
+![Excel Output](2026-09-08_EXCEL_100.png)
+
+---
+
+# 📚 Topics Covered
+
+### Excel Fundamentals
+
+- Workbook & Worksheet
+- Rows & Columns
+- Cell Referencing
+- Formatting
+- Tables
+
+### Excel Functions
+
+- SUM
+- AVERAGE
+- COUNT
+- IF
+- IFS
+- AND
+- OR
+- SUMIF
+- COUNTIF
+- SUMIFS
+- COUNTIFS
+
+### Text Functions
+
+- LEFT
+- RIGHT
+- MID
+- LEN
+- TRIM
+- CONCAT
+- TEXTJOIN
+- SUBSTITUTE
+- REPLACE
+
+### Date & Time Functions
+
+- TODAY
+- NOW
+- DATE
+- DATEDIF
+- WORKDAY
+- NETWORKDAYS
+- EDATE
+- EOMONTH
+
+### Lookup Functions
+
+- VLOOKUP
+- HLOOKUP
+- XLOOKUP
+- INDEX
+- MATCH
+- XMATCH
+
+### Data Analysis
+
+- Sorting
+- Filtering
+- Conditional Formatting
+- Data Validation
+- Remove Duplicates
+- Text to Columns
+
+### Reporting & Dashboarding
+
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timelines
+- Interactive Dashboards
+
+### Advanced Excel
+
+- Power Query
+- Power Pivot
+- DAX Basics
+- VBA
+- Macros
+
+---
+
+# 📊 Projects Included
+
+- Student Result Dashboard
+- Sales Dashboard
+- Customer Analysis Dashboard
+- HR Analytics Dashboard
+- Financial Dashboard
+- Executive KPI Dashboard
+- Power Query Automation Project
+- Final Business Dashboard
+
+---
+
+# 🛠️ Tools Used
 
 - Microsoft Excel
+- Power Query
+- Power Pivot
+- VBA
 - GitHub
-- GitHub Desktop
 
 ---
 
-## 📅 Challenge Duration
+# 🎯 Challenge Goals
 
-**Start Date:** 01 June 2026
-
-**End Date:** 08 September 2026
-
-**Total Days:** 100
-
----
-
-# 📚 Learning Roadmap
-
-| Phase | Topics |
-|---------|---------|
-| Phase 1 | Excel Fundamentals |
-| Phase 2 | Basic Functions |
-| Phase 3 | Text Functions |
-| Phase 4 | Date & Time Functions |
-| Phase 5 | Lookup Functions |
-| Phase 6 | Data Analysis Tools |
-| Phase 7 | Pivot Tables & Dashboards |
-| Phase 8 | Power Query |
-| Phase 9 | Power Pivot & DAX |
-| Phase 10 | Macros & VBA |
+- Master Microsoft Excel from Beginner to Advanced
+- Become Interview Ready for Data Analyst Roles
+- Improve Data Cleaning & Analysis Skills
+- Build Interactive Dashboards
+- Learn Business Reporting
+- Create a Strong GitHub Portfolio
+- Develop Real-World Excel Project Experience
 
 ---
 
-# 🚀 Daily Progress
+# 🏆 Final Outcome
 
-| Day | Date | Topic | Excel File | Screenshot |
-|------|------|------|------|------|
-| 001 | 2026-06-01 | Introduction to Excel | 2026-06-01_EXCEL_001.xlsx | 2026-06-01_EXCEL_001.png |
-| 002 | 2026-06-02 | Data Types | 2026-06-02_EXCEL_002.xlsx | 2026-06-02_EXCEL_002.png |
-| 003 | 2026-06-03 | Formatting Basics | 2026-06-03_EXCEL_003.xlsx | 2026-06-03_EXCEL_003.png |
-| 004 | 2026-06-04 | Number Formatting | 2026-06-04_EXCEL_004.xlsx | 2026-06-04_EXCEL_004.png |
-| 005 | 2026-06-05 | AutoFill & Flash Fill | 2026-06-05_EXCEL_005.xlsx | 2026-06-05_EXCEL_005.png |
-| ... | ... | ... | ... | ... |
-| 100 | 2026-09-08 | Final Excel Project | 2026-09-08_EXCEL_100.xlsx | 2026-09-08_EXCEL_100.png |
+After completing this challenge, I will have:
 
----
-
-# 📂 File Naming Convention
-
-Every day's work follows the format:
-
-Excel File
-
-```text
-YYYY-MM-DD_EXCEL_DDD.xlsx
-```
-
-Screenshot
-
-```text
-YYYY-MM-DD_EXCEL_DDD.png
-```
-
-Example:
-
-```text
-2026-06-01_EXCEL_001.xlsx
-2026-06-01_EXCEL_001.png
-```
-
----
-
-# 📈 Projects Included
-
-### Project 1
-Student Performance Dashboard
-
-### Project 2
-Sales Analysis Dashboard
-
-### Project 3
-Customer Analysis Dashboard
-
-### Project 4
-HR Analytics Dashboard
-
-### Project 5
-Finance Dashboard
-
-### Project 6
-Executive KPI Dashboard
-
-### Project 7
-Power Query Automation Project
-
-### Project 8
-Final Business Intelligence Dashboard
-
----
-
-# 🎤 Interview Preparation
-
-Every day includes:
-
-- Concept Explanation
-- Real-world Example
-- Hands-on Practice
-- Scenario-Based Questions
-- Interview Questions
-- Detailed Answers
-
----
-
-# 🏆 Final Goal
-
-Become highly proficient in Microsoft Excel and job-ready for Data Analyst roles through 100 days of consistent practice.
-
----
-
-## Connect With Me
-
-GitHub: Your GitHub Profile Link
-
-LinkedIn: Your LinkedIn Profile Link
-
----
+- 100 Excel Practice Files
+- 100 Screenshots
+- Multiple Real-World Projects
+- Dashboard Portfolio
+- Interview-Level Excel Knowledge
+- Strong Data Analysis Foundation
