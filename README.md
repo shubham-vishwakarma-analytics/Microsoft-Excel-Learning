@@ -269,7 +269,7 @@ Continue the same pattern till:
 - Build Interactive Dashboards
 - Learn Business Reporting
 - Create a Strong GitHub Portfolio
-- Develop Real-World Excel Project Experience
+- Develop Real-World Excel Projects Experience
 
 ---
 
