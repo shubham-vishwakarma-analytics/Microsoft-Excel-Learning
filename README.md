@@ -1,285 +1,62 @@
-# 📊 100 Days of Microsoft Excel Challenge
+# 📊 Microsoft Excel Learning
 
-Welcome to my **100 Days of Microsoft Excel Challenge** repository!
-
-This repository contains my daily Microsoft Excel learning, practice exercises, mini projects, dashboards, and output screenshots.
-
-The goal of this challenge is to strengthen my:
-
-- Microsoft Excel Fundamentals
-- Data Cleaning Skills
-- Data Analysis Techniques
-- Advanced Excel Functions
-- Pivot Tables & Pivot Charts
-- Dashboard Development
-- Power Query
-- Power Pivot
-- VBA & Macros
-- Interview Preparation for Data Analyst Roles
+A personal repository documenting my journey learning **Microsoft Excel** — notes, practice files, formulas, dashboards, and mini projects, organized topic by topic.
 
 ---
 
-# 📅 Daily Progress
+## 📁 Repository Structure
 
-## Day 1 - 1 June 2026
+```
+📦 Excel-Learning
+├── 01-Basics/              # Cell formatting, navigation, shortcuts
+├── 02-Formulas-Functions/  # IF, VLOOKUP, INDEX-MATCH, SUMIFS, TEXT functions, etc.
+├── 03-PivotTables/         # Pivot tables & pivot charts practice
+├── 04-Charts-Graphs/       # Data visualization exercises
+├── 05-Data-Cleaning/       # Text-to-columns, duplicates, data validation
+├── 06-Dashboards/          # Interactive dashboard projects
+├── 07-VBA-Macros/          # Automation and macro scripts
+├── 08-Power-Query/         # Data import, transformation & modeling
+├── Notes/                  # Concept notes and cheat sheets
+└── README.md
+```
 
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-01_EXCEL_001.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-01_EXCEL_001.png)
-
----
-
-## Day 2 - 2 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-02_EXCEL_002.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-02_EXCEL_002.png)
+> Folder names can be adjusted to match how you actually organize the repo.
 
 ---
 
-## Day 3 - 3 June 2026
+## 📚 Topics Covered
 
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-03_EXCEL_003.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-03_EXCEL_003.png)
-
----
-
-## Day 4 - 4 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-04_EXCEL_004.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-04_EXCEL_004.png)
+- Cell referencing (relative, absolute, mixed)
+- Logical & lookup functions (`IF`, `VLOOKUP`, `HLOOKUP`, `INDEX-MATCH`, `XLOOKUP`)
+- Text, date & math functions
+- Conditional formatting & data validation
+- Sorting, filtering & data cleaning
+- Pivot tables & pivot charts
+- Charts and data visualization
+- Dashboard building
+- Power Query (data import & transformation)
+- Basic VBA & macro automation
 
 ---
 
-## Day 5 - 5 June 2026
+## 🎯 Goals
 
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-05_EXCEL_005.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-05_EXCEL_005.png)
+- Build strong fundamentals in Excel for data analysis
+- Practice real-world spreadsheet problems
+- Create reusable templates and dashboards
+- Prepare for Data Analyst interviews and tasks
+- Maintain a portfolio of hands-on Excel work
 
 ---
 
-## Day 6 - 6 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-06_EXCEL_006.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-06_EXCEL_006.png)
-
----
-
-## Day 7 - 7 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-07_EXCEL_007.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-07_EXCEL_007.png)
-
----
-
-## Day 8 - 8 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-08_EXCEL_008.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-08_EXCEL_008.png)
-
----
-
-## Day 9 - 9 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-09_EXCEL_009.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-09_EXCEL_009.png)
-
----
-
-## Day 10 - 10 June 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-06-10_EXCEL_010.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-06-10_EXCEL_010.png)
-
----
-
-Continue the same pattern till:
-
-## Day 100 - 8 September 2026
-
-### 🔹 Excel Workbook
-
-[Open Workbook](2026-09-08_EXCEL_100.xlsx)
-
-### 🔹 Output Screenshot
-
-![Excel Output](2026-09-08_EXCEL_100.png)
-
----
-
-# 📚 Topics Covered
-
-### Excel Fundamentals
-
-- Workbook & Worksheet
-- Rows & Columns
-- Cell Referencing
-- Formatting
-- Tables
-
-### Excel Functions
-
-- SUM
-- AVERAGE
-- COUNT
-- IF
-- IFS
-- AND
-- OR
-- SUMIF
-- COUNTIF
-- SUMIFS
-- COUNTIFS
-
-### Text Functions
-
-- LEFT
-- RIGHT
-- MID
-- LEN
-- TRIM
-- CONCAT
-- TEXTJOIN
-- SUBSTITUTE
-- REPLACE
-
-### Date & Time Functions
-
-- TODAY
-- NOW
-- DATE
-- DATEDIF
-- WORKDAY
-- NETWORKDAYS
-- EDATE
-- EOMONTH
-
-### Lookup Functions
-
-- VLOOKUP
-- HLOOKUP
-- XLOOKUP
-- INDEX
-- MATCH
-- XMATCH
-
-### Data Analysis
-
-- Sorting
-- Filtering
-- Conditional Formatting
-- Data Validation
-- Remove Duplicates
-- Text to Columns
-
-### Reporting & Dashboarding
-
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Timelines
-- Interactive Dashboards
-
-### Advanced Excel
-
-- Power Query
-- Power Pivot
-- DAX Basics
-- VBA
-- Macros
-
----
-
-# 📊 Projects Included
-
-- Student Result Dashboard
-- Sales Dashboard
-- Customer Analysis Dashboard
-- HR Analytics Dashboard
-- Financial Dashboard
-- Executive KPI Dashboard
-- Power Query Automation Project
-- Final Business Dashboard
-
----
-
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Power Query
-- Power Pivot
-- VBA
-- GitHub
+- VBA (Visual Basic for Applications)
 
 ---
 
-# 🎯 Challenge Goals
+## 🔗 Connect
 
-- Master Microsoft Excel from Beginner to Advanced
-- Become Interview Ready for Data Analyst Roles
-- Improve Data Cleaning & Analysis Skills
-- Build Interactive Dashboards
-- Learn Business Reporting
-- Create a Strong GitHub Portfolio
-- Develop Real-World Excel Projects Experience
-
----
-
-# 🏆 Final Outcome
-
-After completing this challenge, I will have:
-
-- 100 Excel Practice Files
-- 100 Screenshots
-- Multiple Real-World Projects
-- Dashboard Portfolio
-- Interview-Level Excel Knowledge
-- Strong Data Analysis Foundation
+Feedback, suggestions, and resource recommendations are always welcome!
