@@ -57,6 +57,3 @@ A personal repository documenting my journey learning **Microsoft Excel** — no
 
 ---
 
-## 🔗 Connect
-
-Feedback, suggestions, and resource recommendations are always welcome!
